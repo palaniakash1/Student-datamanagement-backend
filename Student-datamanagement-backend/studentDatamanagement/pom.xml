@@ -8,11 +8,11 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.student</groupId>
-	<artifactId>akash</artifactId>
+	<groupId>org.akash</groupId>
+	<artifactId>attendance</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>studentDatamanagement</name>
-	<description>student data management SpringBoot</description>
+	<name>AttendanceManagement</name>
+	<description>spring boot project to manage attendance</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
